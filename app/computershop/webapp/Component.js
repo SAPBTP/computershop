@@ -6,7 +6,7 @@ sap.ui.define(
         return Component.extend("computershop.computershop.Component", {
             metadata: {
                 manifest: "json"
-            }
+            } 
         }); 
     }
 );
