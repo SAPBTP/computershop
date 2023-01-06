@@ -12,7 +12,7 @@ entity Computer
 annotate Computer with {
     ID@title : 'ID';
     model@title : 'Model';
-    stock@title : 'Stock';
+    stock@title : 'Stock Quantity';
     criticality@title : 'Criticality';
 };
 
